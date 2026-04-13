@@ -10,7 +10,7 @@
 
 ## $ whoami
 
-Full stack dev — je vis entre le **process principal** et le **renderer**, entre le DOM et le système de fichiers.  
+Full stack dev — 
 Stack quotidienne : **Electron · Svelte · Node.js**. Quand quelque chose peut tourner en natif, il tourne en natif.
 
 Pas de framework pour le plaisir. Pas de dépendance sans raison. Du code qui fait exactement ce qu'il dit faire.
