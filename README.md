@@ -22,7 +22,7 @@ Pas de framework pour le plaisir. Pas de dépendance sans raison. Du code qui fa
 | Couche | Outils |
 |---|---|
 | Desktop | Electron, contextBridge, IPC, auto-updater |
-| UI | Svelte, SvelteKit, transitions natives |
+| UI | Svelte, SvelteKit|
 | Back / scripts | Node.js, ESM, worker_threads, streams |
 | Data | SQLite (better-sqlite3), JSON, fichiers plats |
 | Tooling | Vite, esbuild, pnpm, GitHub Actions |
@@ -53,8 +53,7 @@ feat: scripts CLI utilitaires avec zéro friction
 
 ## $ ping
 
-> Toujours partant pour parler architecture Electron, patterns Svelte, ou outillage Node.  
-> Les issues et discussions sont ouvertes.
+> Toujours partant pour parler 
 
 ---
 
