@@ -4,7 +4,6 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![wakatime](https://wakatime.com/badge/user/b1595087-a571-4f81-947d-01faae33c67b.svg)](https://wakatime.com/@b1595087-a571-4f81-947d-01faae33c67b)
 
 ---
 
