@@ -40,14 +40,6 @@ Pas de framework pour le plaisir. Pas de dépendance sans raison. Du code qui fa
 
 ## $ git log --oneline ./interests
 
-```
-feat: desktop apps avec UX web, perf native
-feat: IPC typé, stores Svelte réactifs bout en bout  
-feat: tooling Node.js sans overhead inutile
-feat: ES modules, import.meta, await
-feat: scripts CLI utilitaires avec zéro friction
-```
-
 ---
 
 ## $ ping
