@@ -12,7 +12,6 @@
 Full stack dev — 
 Stack quotidienne : **Electron · Svelte · Node.js**. Quand quelque chose peut tourner en natif, il tourne en natif.
 
-Pas de framework pour le plaisir. Pas de dépendance sans raison. Du code qui fait exactement ce qu'il dit faire.
 
 ---
 
@@ -22,7 +21,7 @@ Pas de framework pour le plaisir. Pas de dépendance sans raison. Du code qui fa
 |---|---|
 | Desktop | Electron, contextBridge, IPC, auto-updater |
 | UI | Svelte, SvelteKit|
-| Back / scripts | Node.js, ESM, worker_threads, streams |
+| Back / scripts | Node.js, ESM, |
 | Data | SQLite (better-sqlite3), JSON, fichiers plats |
 | Tooling | Vite, esbuild, pnpm, GitHub Actions |
 | Logger | ANSI custom · zéro dépendance · ES2020+ |
@@ -31,11 +30,7 @@ Pas de framework pour le plaisir. Pas de dépendance sans raison. Du code qui fa
 
 ## $ cat ./approach.md
 
-- L'architecture d'abord. Le code suit.  
-- Un module fait une chose. Un fichier dit ce qu'il contient.  
-- Les outils CLI, les loggers, les utilitaires — tout s'écrit à la main quand c'est plus propre.  
-- Les dépendances se justifient. `node_modules` n'est pas un fourre-tout.
-
+Concept -> Figma -> Prototype -> Get it!
 ---
 
 ## $ git log --oneline ./interests
