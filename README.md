@@ -22,8 +22,9 @@ Depuis 7 ans, je travaille sur des produits full stack JavaScript avec une atten
 
 - Construire des applications full stack claires et durables.
 - Concevoir des API simples à maintenir.
-- Développer des apps desktop avec Tauri.
+- Développer des apps desktop avec Tauri et Electron
 - Mettre en place des architectures pragmatiques.
+- Conception d'applications mobile avec Flutter
 
 ## Projets
 
