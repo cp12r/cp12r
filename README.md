@@ -1,46 +1,36 @@
-```
-╔═══════════════════════════════════════════════════════════╗
-║   node --experimental-vm-modules ./me.mjs                 ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<h1 align="center">Johakim</h1>
+<p align="center">
+  Développeur full stack JavaScript · 7 ans d'expérience<br />
+  Tauri · TypeScript · SvelteKit · Fastify · Prisma · Rust
+</p>
 
+## À propos
 
----
+Je conçois des applications web et desktop robustes, rapides et maintenables.
 
-## $ whoami
+Depuis 7 ans, je travaille sur des produits full stack JavaScript avec une attention particulière portée à la structure du code, à la performance et à l'expérience développeur.
 
-Full stack dev — 
-Stack quotidienne : **Electron · Svelte · Node.js**. Quand quelque chose peut tourner en natif, il tourne en natif.
+## Stack
 
+- Frontend : TypeScript, SvelteKit, Svelte
+- Backend : Node.js, Fastify, Prisma
+- Desktop : Tauri
+- Système : Rust
+- Base de données : PostgreSQL, SQLite,MongoDB
 
----
+## Ce que je fais
 
-## $ ls -la ./stack
+- Construire des applications full stack claires et durables.
+- Concevoir des API simples à maintenir.
+- Développer des apps desktop avec Tauri.
+- Mettre en place des architectures pragmatiques.
 
-| Couche | Outils |
-|---|---|
-| Desktop | Electron, contextBridge, IPC, auto-updater |
-| UI | Svelte, SvelteKit|
-| Back / scripts | Node.js, ESM, |
-| Data | SQLite (better-sqlite3), JSON, fichiers plats |
-| Tooling | Vite, esbuild, pnpm, GitHub Actions |
-| Logger | ANSI custom · zéro dépendance · ES2020+ |
+## Projets
 
----
+en cours
 
-## $ cat ./approach.md
+## Contact
 
-Concept -> Figma -> Prototype -> Get it!
----
-
-## $ git log --oneline ./interests
-
----
-
-## $ ping
-
-> Toujours partant pour parler 
-
----
-
-*`process.exit(0)`*
+- GitHub : `github.com/cp12r`
+- LinkedIn : `linkedin.com/in/`
+- Mail : `johakim.b@outlook.com`
