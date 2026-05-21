@@ -1,7 +1,7 @@
 <h1 align="center">Johakim</h1>
 <p align="center">
   Développeur full stack JavaScript · 7 ans d'expérience<br />
-  Tauri · TypeScript · SvelteKit · Fastify · Prisma · Rust
+  Tauri · TypeScript · SvelteKit · Fastify · Prisma · Rust · Electron · Flutter
 </p>
 
 ## À propos
