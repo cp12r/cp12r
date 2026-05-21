@@ -8,7 +8,7 @@
 
 Je conçois des applications web et desktop robustes, rapides et maintenables.
 
-Depuis 7 ans, je travaille sur des produits full stack JavaScript avec une attention particulière portée à la structure du code, à la performance et à l'expérience développeur.
+Depuis 7 ans, je travaille sur des produits full stack JavaScript avec une attention particulière portée à la structure du code, à la performance et à l'expérience utilisateur et développeur.
 
 ## Stack
 
